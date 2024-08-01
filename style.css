@@ -34,7 +34,7 @@ body{
     justify-content: center;
     margin: 10% auto;
 }
-#backBtn, nextBtn{
+#backBtn, #nextBtn{
     width: 50px;
     cursor: pointer;
     margin: 40px;
